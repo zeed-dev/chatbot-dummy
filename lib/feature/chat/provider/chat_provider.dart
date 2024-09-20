@@ -1,6 +1,6 @@
 import 'dart:developer';
 
-import 'package:chat_apps/core/models/mock_data.dart';
+import 'package:chat_apps/core/models/message_model.dart';
 import 'package:chat_apps/core/service/firebase_service.dart';
 import 'package:chat_apps/core/utils/constant.dart';
 import 'package:flutter/material.dart';
